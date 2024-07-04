@@ -3,12 +3,16 @@
 I am a passionate software developer with a love for coding and problem-solving. I enjoy working on various projects and exploring different technologies. My main areas of interest include web development, data science, and machine learning.
 
 ## 🌱 My Stack
+
 Im a full stack developer, specialized in Vue.js, C#, Dotnet and Docker. I love working with Azure and AWS too!
+
 ![The image shows the logos of the previously mentioned technologies](./assets/stack.png)
 
 ## 🔭 What I'm Currently Working On
 
 I'm currently focusing on enhancing my skills in front-end development and diving deeper into JavaScript frameworks like React. I'm also exploring cloud technologies and learning how to deploy scalable applications using platforms like AWS and Azure.
+
+![The image shows a console command prompt](./assets/console.png)
 
 ## 💬 How to Reach Me
 
